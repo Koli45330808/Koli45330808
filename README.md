@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coder.gif" alt="Coder Banner" width="500"/>
 </p>
+
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Aakash Koli</span></h1>
 <h3 align="center">🚀 Full Stack Developer | ⚔️ DSA Enthusiast | 💡 Problem Solver</h3>
