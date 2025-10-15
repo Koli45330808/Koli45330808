@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coder.gif" alt="Coder Banner" width="500"/>
 </p>
 
-
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Aakash Koli</span></h1>
 <h3 align="center">🚀 Full Stack Developer | ⚔️ DSA Enthusiast | 💡 Problem Solver</h3>
 
@@ -63,6 +62,12 @@ N.K. Orchid College of Engineering & Technology, Solapur
 
 ---
 
+### 🌐 Portfolio  
+🔗 **Live Portfolio:**  
+https://preview--aakash-gold-folio.lovable.app/
+
+---
+
 ### 📬 Connect With Me
 
 <p align="center">
@@ -77,6 +82,9 @@ N.K. Orchid College of Engineering & Technology, Solapur
   </a>
   <a href="https://wa.me/918080787199">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://preview--aakash-gold-folio.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FFB300?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
